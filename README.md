@@ -26,7 +26,7 @@ Equity research analysis evaluates a company’s financial health, valuation, an
 3. Perform stock valuation
 4. Generate investment recommendation
 
-Output
+##Output
 
 Intrinsic stock value
 
@@ -34,7 +34,8 @@ Financial ratios
 
 Investment recommendation (BUY / HOLD / SELL)
 
-Outcome
+---
+##Outcome
 
 Informed investment decisions
 
@@ -47,3 +48,5 @@ Practical understanding of equity valuation techniques
 ```bash
 pip install -r requirements.txt
 python equity_analysis.py
+
+
